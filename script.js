@@ -13,8 +13,6 @@ const makeChange = (c) => {
   return { "q": quarters, "d": dimes, "n": nickels, "p": pennies };
 };
 	
-
-
 // Do not the change the code below
 const c = prompt("Enter c: ");
 alert(JSON.stringify(makeChange(c)));
