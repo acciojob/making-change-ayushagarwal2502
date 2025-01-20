@@ -1,4 +1,4 @@
-const makeChange = (c) => {
+
   // your name here
 const makeChange = (c) => {
   let quarters = Math.floor(c / 25);
